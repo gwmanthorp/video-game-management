@@ -38,7 +38,7 @@ This project is a video game management system that allows users to rent, return
    jupyter notebook
    ```
 
-   Then open menu.ipynb and use the interface buttons for the following.
+   Then open `menu.ipynb` and use the interface buttons for the following.
 
 4. **Use the Interface**
    - **Search**: Search for games by title, genre, or platform.
