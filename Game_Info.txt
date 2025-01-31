@@ -1,0 +1,30 @@
+ID,Platform,Genre,Title,Publisher,Purchase Date
+cod01,PlayStation,Action,COD,Activision,01/08/2020
+fifa02,Xbox,Sports,FIFA,EA Sports,01/08/2019
+cod02,PlayStation,Action,COD,Activision,01/09/2021
+gta01,PlayStation,Action,Grand Theft Auto,Rockstar Games,05/12/2020
+mario01,Switch,Platformer,Super Mario Odyssey,Nintendo,02/10/2018
+halo01,Xbox,Shooter,Halo: Master Chief Collection,Microsoft Studios,03/02/2019
+witcher01,PC,RPG,The Witcher 3: Wild Hunt,CD Projekt,07/10/2015
+minecraft01,Playstation,Sandbox,Minecraft,Mojang,09/11/2014
+fifa01,Xbox,Sports,FIFA,EA Sports,07/08/2019
+gta02,Xbox,Action,Grand Theft Auto,Rockstar Games,05/12/2020
+asscreed01,PlayStation,Action-Adventure,Assassin's Creed Valhalla,Ubisoft,11/10/2020
+zelda01,Switch,Action-Adventure,The Legend of Zelda: Breath of the Wild,Nintendo,03/03/2017
+halo02,Xbox,Shooter,Halo: Master Chief Collection,Microsoft Studios,03/04/2019
+overwatch01,PC,Shooter,Overwatch,Blizzard Entertainment,05/05/2016
+fortnite01,Xbox,Battle Royale,Fortnite,Epic Games,07/01/2017
+nba01,PlayStation,Sports,NBA 2K22,2K Sports,09/10/2021
+forza01,Xbox,Racing,Forza Horizon 4,Microsoft Studios,10/02/2018
+minecraft02,PC,Sandbox,Minecraft,Mojang,09/07/2014
+rocketleague01,Switch,Sports/Racing,Rocket League,Psyonix,07/01/2015
+destiny01,PlayStation,Shooter,Destiny 2,Bungie,09/06/2017
+apexlegends01,PC,Battle Royale,Apex Legends,Electronic Arts,02/04/2019
+rocketleague02,Switch,Sports/Racing,Rocket League,Psyonix,07/08/2015
+godofwar01,PlayStation,Action-Adventure,God of War,Sony Interactive Entertainment,04/09/2018
+rocketleague03,PC,Sports/Racing,Rocket League,Psyonix,07/03/2015
+fortnite02,PC,Battle Royale,Fortnite,Epic Games,04/02/2017
+spiderman01,Playstation,Action-Adventure,Spider-Man,Insomniac,23/07/2020
+spiderman02,PC,Action-Adventure,Spider-Man,Insomniac,21/08/2020
+valorant01,PC,Shooter,Valorant,Riot Games,21/05/2020
+valorant02,PC,Shooter,Valorant,Riot Games,20/06/2020

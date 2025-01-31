@@ -1,0 +1,36 @@
+GameID,Rating,Comments
+cod01,5,Excellent game!
+fifa02,4,Good but could be better.
+cod01,5,Highly enjoyable!
+cod01,4,Cracking Game
+rocketleague01,4,great game
+apexlegends01,3,Boring and basic
+cod02,3,meh
+destiny01,5,Destiny best
+cod02,1,bad
+minecraft02,3,
+witcher01,4,Classic
+cod02,0,trash
+cod02,3,nu
+gta01,3,good
+gta01,3,pretty good
+gta02,2,ok game
+halo01,3,good game
+cod01,4,great game
+cod01,3,game
+cod01,3,good
+spiderman01,4,Real good
+valorant01,5,Best game
+rocketleague02,5,Goated
+overwatch01,5,trash
+destiny01,2,meh
+spiderman02,5,so awesome
+minecraft01,5,Incredible
+spiderman01,5,Goated game
+halo02,3,pretty good
+mario01,5,Very good
+mario01,5,Great game
+rocketleague03,5,Amazing
+halo01,1,pretty bad game
+mario01,3,goated game
+fifa02,5,Absolutely amazing!
