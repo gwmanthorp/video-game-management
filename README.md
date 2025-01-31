@@ -1,5 +1,5 @@
 # Video Game Management System
-
+## Overview
 This project is a video game management system that allows users to rent, return, search, and manage video games. It includes functionalities for handling game rentals, returns, searching for games, and inventory pruning based on rental frequency and feedback ratings.
 
 ## Project Structure
